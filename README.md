@@ -2,9 +2,10 @@
 
 I am Otávio
 
-- M.Sc. student in Electrical Engineering at the Graduate Program in Electrical Engineering (PPGEE) of the Federal University of Rio Grande do Sul (UFRGS)
-- My interests are: network, intelligent systems and robotics.
-- I have experience with basic robotics (see [Scicobot](https://github.com/SciCoBot) . For more information you can access my [CV](http://lattes.cnpq.br/2426064317023440).
+- PhD student in Electrical Engineering at the Graduate Program in Electrical Engineering (PPGEE) of the Federal University of Rio Grande do Sul (UFRGS)
+- My interests are: networking systems, artificial intelligence and robotics.
+- For more academic information access my [CV](http://lattes.cnpq.br/2426064317023440).
+- See also [Scicobot](https://github.com/SciCoBot).
 
 <!--
 **OtaviodaCruz/OtaviodaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
